@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHEKHAR SUMAN
 - 👀 I’m interested in learning computer languages.
-- 🌱 I’m currently learning the c++ language.
+- 🌱 I’m currently learning the java programming language.
 - 📫 you can contact me via email i.e shekharsam10329@gmail.com or on insta i.e @imshekhar16
 
 <!---
